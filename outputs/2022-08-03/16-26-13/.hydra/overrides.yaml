@@ -1,0 +1,3 @@
+- +db.dirver=mysql
+- +db.user=omry
+- +db.password=secret

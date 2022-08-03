@@ -1,0 +1,4 @@
+db:
+  dirver: mysql
+  user: omry
+  password: secret

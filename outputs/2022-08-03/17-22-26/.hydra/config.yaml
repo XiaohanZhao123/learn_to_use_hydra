@@ -1,0 +1,10 @@
+classification:
+  C: 0.5
+regression:
+  alpha: 0.005
+setup:
+  n_fold: 5
+  random_seed: 42
+  time_limit: 6000
+tol: 1.0e-06
+big: 1.0e-08

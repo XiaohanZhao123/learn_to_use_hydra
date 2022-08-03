@@ -1,0 +1,9 @@
+classification:
+  C: 1.0
+  kernel: linear
+regression:
+  alpha: 0.005
+setup:
+  n_fold: 5
+  random_seed: 42
+  time_limit: 6000

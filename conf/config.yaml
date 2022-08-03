@@ -1,0 +1,4 @@
+defaults:
+  - classification: logistic
+  - regression: lasso
+  - setup: params
